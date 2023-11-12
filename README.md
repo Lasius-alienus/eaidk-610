@@ -2,7 +2,7 @@
 
 详见[发布页](https://github.com/Lasius-alienus/eaidk-610/releases/ "发布页")
 
-- Debian系统可以通过RKDev Tools(包含在[releases](https://github.com/Lasius-alienus/eaidk-610/releases/download/Debian "releases")内)刷入emmc，也可以直接使用[balenaEtcher](https://etcher.balena.io/#download-etcher "balenaEtcher")刷入SD卡启动(emmc须存在可用主线u-boot)。
+- Debian系统可以通过RKDev Tools(包含在[releases](https://github.com/Lasius-alienus/eaidk-610/releases "releases")内)刷入emmc，也可以直接使用[balenaEtcher](https://etcher.balena.io/#download-etcher "balenaEtcher")刷入SD卡启动(emmc须存在可用主线u-boot)。
 
 特性:
 1. 驱动所有USB-A(第一次启动只能驱动usb2.0，使用'apt update && apt upgrade'更新完成后即可以使用)。
